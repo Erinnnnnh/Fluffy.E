@@ -58,3 +58,23 @@
 
     </body>
 </html>
+
+<!-- CSS
+.河熊大百科 {border: 25px solid MediumTurquoise;
+  width: 200px;
+  height: 150px;
+  margin: 15px;
+  padding: 50px 1px;
+  text-align:center}
+h1 {color:#2f4f4f}
+h2 {background-color: DarkGray;
+  width:200px;
+  height:20px;
+  margin:15px;
+  text-align:center}
+h3 {text-align:center;
+  background-color: Gainsboro;
+  width:200px;
+  height:10px;
+  margin:15px;}
+em {color:#ff6347;} -->
